@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,py)](https://skillicons.dev)
 
 
-[![Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=13Aarya)](https://github.com/13Aarya/github-readme-stats)
+![Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=13Aarya&show_icons=true&theme=tokyonight)
 <br>
 
 <!--
