@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi, I'm Aarya!
 
+I'm currently pursuing my bachelors-BSC(IT) from JG University.
+🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON
+
+
+
+[![Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=13Aarya)](https://github.com/13Aarya/github-readme-stats)
 <!--
 **13Aarya/13Aarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
